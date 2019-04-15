@@ -1,1 +1,1 @@
-# cicles-covering-bbox
+# circles-covering-bbox
